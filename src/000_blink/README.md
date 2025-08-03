@@ -1,5 +1,7 @@
 ## 🔴 LED (Light Emitting Diode)
 
+![000](../../doc/images/000.png)
+
 A **LED** is a special type of **diode** — an electronic component that allows current to flow in only one direction, much like a **one-way street**.
 
 ### ✅ How It Works:
@@ -10,7 +12,7 @@ A **LED** is a special type of **diode** — an electronic component that allows
 
 > ⚠️ **Important**: LEDs typically operate safely between **1.9V and 3.4V**. Supplying more than **3.3V without protection** can **damage or burn out** the LED.
 
-![Diode](../../../doc/images/diode.png)
+![Diode](../../doc/images/diode.png)
 
 ### ❗ Never Connect a LED Directly to Power:
 To protect the LED, always use a **resistor in series**. This limits the current and prevents damage.
@@ -29,7 +31,7 @@ A **resistor** is a **passive component** that limits or controls the flow of cu
 - Left: Physical resistor  
 - Right: Circuit diagram symbol
 
-![Resistor](../../../doc/images/resistor.png)
+![Resistor](../../doc/images/resistor.png)
 
 ### Color Bands:
 Resistors use **colored bands** to indicate their resistance values. See the **appendix** for a detailed resistor color code chart.
